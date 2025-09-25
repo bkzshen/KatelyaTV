@@ -26,8 +26,6 @@
       "name": "百度资源",
       "is_adult": false
     },
-
-  "api_site": {
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "name": "TV-1080资源",
@@ -573,5 +571,4 @@
       "is_adult": false
     }
   }
-}
 }
